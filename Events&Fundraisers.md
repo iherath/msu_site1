@@ -58,7 +58,7 @@ nav-menu: true
 					<h4>June 4th, 2020 - Present</h4>
 					<h4>Montgomery County,  Maryland United States</h4>
 				</header>
-				<p>Low income communities have been disproportionately affected by the COVID-19 outbreak> Thus, we believe we could make an impact by distrubuting masks at local free clinics and food banks in the Baltimore - Washington Metropolitan Area. </p>
+				<p>Low income communities have been disproportionately affected by the COVID-19 outbreak. Thus, we believe we could make an impact by distrubuting masks at local free clinics and food banks in the Baltimore - Washington Metropolitan Area. </p>
 				<!--<ul class="actions">
 					<li><a class="button">Learn more</a></li>
 				</ul>-->
