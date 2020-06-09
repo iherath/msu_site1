@@ -19,7 +19,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="/assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="/msu_site1/assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -32,7 +32,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="/assets/images/pic09.jpg" alt="" data-position="25% 25%" />
+			<img src="/msu_site1/assets/images/pic09.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,7 +45,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="/assets/images/SA.jpg" alt="" data-position="25% 25%" />
+			<img src="/msu_site1/assets/images/SA.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -58,7 +58,7 @@ nav-menu: true
 	</section>
     <section>
 		<a class="image">
-			<img src="/assets/images/HR.jpg" alt="" data-position="25% 25%" />
+			<img src="/msu_site1/assets/images/HR.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -71,7 +71,7 @@ nav-menu: true
 	</section>
     <section>
 		<a class="image">
-			<img src="/assets/images/DK.jpg" alt="" data-position="25% 25%" />
+			<img src="/msu_site1/assets/images/DK.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -84,7 +84,7 @@ nav-menu: true
 	</section>
     <section>
 		<a class="image">
-			<img src="/assets/images/KA.jpg" alt="" data-position="25% 25%" />
+			<img src="/msu_site1/assets/images/KA.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -97,7 +97,7 @@ nav-menu: true
 	</section>
     <section>
 		<a class="image">
-			<img src="/assets/images/DR.jpg" alt="" data-position="25% 25%" />
+			<img src="/msu_site1/assets/images/DR.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -110,7 +110,7 @@ nav-menu: true
 	</section>
     <section>
 		<a class="image">
-			<img src="/assets/images/BW1.jpg" alt="" data-position="25% 25%" />
+			<img src="/msu_site1/assets/images/BW1.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -123,7 +123,7 @@ nav-menu: true
 	</section>
     <section>
 		<a class="image">
-			<img src="/assets/images/DS.jpg" alt="" data-position="25% 25%" />
+			<img src="/msu_site1/assets/images/DS.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
