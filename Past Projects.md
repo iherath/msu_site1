@@ -17,7 +17,7 @@ nav-menu: true
 					<h4>Auguest, 2016</h4>
                     <h4>Dambadeniya, Sri Lanka</h4>
 				</header>
-				<p> This was the first project we undertook after noticing the shortage of supplies in this rural hospital. It was challenging for staff to care for the amount of patients being admitted. We donoated multiple nebulizers to help out.</p>
+				<p> This was the first project we undertook after noticing the shortage of supplies in this rural hospital. It was challenging for staff to care for the amount of patients being admitted. We donated multiple nebulizers to help out.</p>
 			</div>
 		</div>
 	</section>
@@ -32,7 +32,7 @@ nav-menu: true
 					<h4>December 10th, 2018</h4>
                     <h4>Maho, Sri Lanka</h4>
 				</header>
-				<p>In partnership with Global Links, we were able to ship over 500lbs of surplus medical supplies too Maho Regional Hospital. We mediated between hospital administrators in Maho and Global Links to make sure we were sending supplies that were needed. Some examples of materials shipped include, wheel chairs, crutches, and surgical kits.</p>
+				<p>In partnership with Global Links, we were able to ship over 500lbs of surplus medical supplies to Maho Regional Hospital. We mediated between hospital administrators in Maho and Global Links to make sure we were sending supplies that were needed. Some examples of materials shipped include, wheel chairs, crutches, and surgical kits.</p>
 				<!--<ul class="actions">
 					<li><a class="button">Learn more</a></li>
 				</ul>-->
