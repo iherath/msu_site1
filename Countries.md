@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">What is medical surplus?</h2>
-<p> It is a well-known fact that the United States spends the more on healthcare than any other developed country<a href="#section1"><sup >1</sup></a>. Likewise, the United States provides some of the best healthcare services in the world, from advanced surgical procedures to cutting-edge biomedical innovations. Howeverr, a major flaw in the current healthcare system is that each year, the US healthcare system wastes an estimated $765 billion a year in medical supplies<a href="#section2"><sup >2</sup></a>. In stark contrast, hospitals in many South Asian countries lack resources to provide basic services to their patients. Surplus medical supplies from the US could be invaluable to hospitals in developing countries struggling to accommodate the patient volume they encounter, as well as free clinics within the United States, which rely on donations to continue to serve underprivileged communities.
+<p> It is a well-known fact that the United States spends the more on healthcare than any other developed country<a href="#section1"><sup >1</sup></a>. Likewise, the United States provides some of the best healthcare services in the world, from advanced surgical procedures to cutting-edge biomedical innovations. However, a major flaw in the current healthcare system is that each year, the US healthcare system wastes an estimated $765 billion a year in medical supplies<a href="#section2"><sup >2</sup></a>. In stark contrast, hospitals in many South Asian countries lack resources to provide basic services to their patients. Surplus medical supplies from the US could be invaluable to hospitals in developing countries struggling to accommodate the patient volume they encounter, as well as free clinics within the United States, which rely on donations to continue to serve underprivileged communities.
 </p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -25,7 +25,7 @@ nav-menu: true
 		<ul>
 			<li>An updated model was released </li>
 			<li>The hospital changed vendors</li>
-			<li>A piece of equipment eached expiration date, but is still unused and in working condition</li>
+			<li>A piece of equipment reached expiration date, but is still unused and in working condition</li>
 			<li>If a product is placed in the room of patient, cannot be used again even if not opened</li>
 		</ul>
 		</p>
