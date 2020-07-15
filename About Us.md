@@ -56,6 +56,19 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a class="image">
+			<img src="/assets/images/DK.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Dineth Karunamuni - Fundraising Chair</h3>
+				</header>
+				<p>Dineth Karunamuni is a senior at Wilton High School in Wilton, Connecticut. He will be attending the University of Pennsylvania in the fall of 2020 where he will study Biophysics. In his free time, he likes to play basketball and play poker.</p>
+			</div>
+		</div>
+	</section>    
     <section>
 		<a class="image">
 			<img src="/assets/images/HR.jpg" alt="" data-position="25% 25%" />
@@ -63,22 +76,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Hasala Rannulu - Co-Events Coordinator</h3>
+					<h3>Hasala Rannulu - Project Manager</h3>
 				</header>
 				<p>Hasala Rannulu is an undergraduate student at the University of Pittsburgh majoring in Biochemistry and Sociology. Currently, he works as an undergraduate researcher at the University of Pittsburgh’s School of Medicine, co-founded and is the Vice President of the Pitt Squash Club, and volunteers with Steel City Squash, an organization that tutors and coaches children from the Pittsburgh-area. In his free time, he roots for his favorite football team, the New Orleans Saints, and plays squash.</p>				
-			</div>
-		</div>
-	</section>
-    <section>
-		<a class="image">
-			<img src="/assets/images/DK.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Dineth Karunamuni - Co-Events Coordinator</h3>
-				</header>
-				<p>Dineth Karunamuni is a senior at Wilton High School in Wilton, Connecticut. He will be attending the University of Pennsylvania in the fall of 2020 where he will study Biophysics. In his free time, he likes to play basketball and play poker.</p>
 			</div>
 		</div>
 	</section>
@@ -89,7 +89,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Kenneth Abraham - Co-Events Coordinator</h3>
+					<h3>Kenneth Abraham - Project Manager</h3>
 				</header>
 				<p>Kenneth Abraham is an incoming freshman at Andrews University where he will be studying Biology. He is also the CEO of The Social Contract Corporation (an organization that provides food for the less fortunate). He has also worked along professionals in the FDA where he researched HIV/AIDS. In his free time he enjoys playing piano, tennis, and working out. </p>
 			</div>
@@ -102,7 +102,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Dulmi Ratnasiri - Co-Public Relations</h3>
+					<h3>Dulmi Ratnasiri - Co-Public Relations Coordinator</h3>
 				</header>
 				<p>Dulmi Ratnasiri is an undergraduate student at the University of Maryland, College Park, where she studies Physiology and Neurobiology. Dulmi is a member of Girl Up!, an organization that aims to empower girls and raise awareness for United Nations programs that help adolescent girls in developing countries. She is also an active member of Maryland Club Tennis and participated in Terp Thon’s 12 hour dance marathon where she raised funds for Children’s National Hospital. In her free time, she enjoys listening to music and watching/playing tennis.</p>
 			</div>
@@ -115,7 +115,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Bosith Weerasinghe - Co-Public Relations</h3>
+					<h3>Bosith Weerasinghe - Co-Public Relations Coordinator</h3>
 				</header>
 				<p>Bosith is an undergraduate student at the University of Maryland, College Park where he studies Psychology while on a pre-medical pathway. He is a member of the College Park Scholars program, more specifically their Justice and Legal Thought branch. He has shadowed various doctors, and interned at the FDA. At the FDA he actively assisted his mentors in their project which tested the harmfulness of swabcaps by writing the protocol for the study. In his free time he loves playing basketball and playing the drums</p>
 			</div>
