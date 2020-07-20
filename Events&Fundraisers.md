@@ -18,7 +18,29 @@ nav-menu: true
 		<p>Our projects are funded by generous donations to our fundraisers. Any support is greatly valued and appreciated. </p>
 	</div>
 </section>
-
+<section id="two" class="spotlights">
+	<section>
+		<a class="image">
+			<img src="/assets/images/Protest.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Aid for Yemen</h3>
+					<h4>June 3rd, 2020 - Present</h4>
+					<h4>Washington, D.C., United States</h4>
+				</header>
+				<p> Yemen is currently experiencing the largest humanitarian crisis in the world. Caught in the middle of war, famine, and now a pandemic, many of the Yemeni people are in need of support. We are holding a fundraiser that will donate proceeds to Unicef and the United Nations High Commissionerr for Refugees (UNHCR), as we have researched and worked with officials from these organizations to ensure that our donations will go to assisting in providing for the medical needs for the people of Yemen.</p>
+			</div>
+			<ul class="actions">
+			<li><a href="https://www.gofundme.com/f/medsurplus-united-united-aid-for-yemen" class="button" style="float: right;">GoFundMe</a></li>
+			</ul>
+			<ul class="actions">
+			<li><a href="https://www.facebook.com/medsurplusunited1" class="button" style="float: right;">Facebook Fundraiser</a></li>
+			</ul>
+			
+		</div>
+	</section>
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -43,7 +65,7 @@ nav-menu: true
 					<h4>June 3rd, 2020 - Present</h4>
 					<h4>Washington, D.C., United States</h4>
 				</header>
-				<p> As a result of the recent death of George Floyd as well as many past incidents of police brutality, many across the nation are going outside to protest. Unfortunately, this is all happening amids a global pandemic, as there is still no vaccine or cure for SARS-CoV-2. To help out, we are working to help distribute masks to anyone attending the protests.</p>
+				<p> As a result of the death of George Floyd as well as many past incidents of police brutality, many across the nation took to the streets to protest. Unfortunately, this is all happened amidst a global pandemic, as there is still no vaccine or cure for SARS-CoV-2. To help out, helped distribute masks to anyone attending the protests.</p>
 			</div>
 		</div>
 	</section>
