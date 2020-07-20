@@ -33,8 +33,7 @@ nav-menu: true
 			</ul>
 			<ul class="actions">
 			<li><a href="https://www.facebook.com/medsurplusunited1" class="button" style="float: right;">Facebook Fundraiser</a></li>
-			</ul>
-			
+			</ul>	
 		</div>
 	</section>
 <section id="one">
