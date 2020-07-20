@@ -36,6 +36,7 @@ nav-menu: true
 			</ul>	
 		</div>
 	</section>
+</section>
 <section id="one">
 	<div class="inner">
 		<header class="major">
