@@ -20,12 +20,14 @@ nav-menu: true
 </section>
 <section id="two" class="spotlights">
 	<section>
-		<ul class="actions">
-		<li><a href="https://www.gofundme.com/f/medsurplus-united-united-aid-for-yemen" class="button" style="float: right;">GoFundMe</a></li>
-		</ul>
-		<ul class="actions">
-		<li><a href="https://www.facebook.com/medsurplusunited1" class="button" style="float: right;">Facebook Fundraiser</a></li>
-		</ul>
+		<div class="inner">
+			<ul class="actions">
+			<li><a href="https://www.gofundme.com/f/medsurplus-united-united-aid-for-yemen" class="button" style="float: right;">GoFundMe</a></li>
+			</ul>
+			<ul class="actions">
+			<li><a href="https://www.facebook.com/medsurplusunited1" class="button" style="float: right;">Facebook Fundraiser</a></li>
+			</ul>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
