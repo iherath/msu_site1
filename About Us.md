@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: About Us
-description: MedSurplus United aims to collect and donate surplus medical equipment that would otherwise be wasted, from the United States to South Asian countries as well as low-income communities within the United States. The organization also donates to countries experiencing major health crises. It is made up of motivated and compassionate college students from across the country. Members are dedicated to addressing the issue of surplus medical equipment
+description: MedSurplus United aims to collect and donate surplus medical and healthcare equipment that would otherwise be wasted, from the United States to South Asian countries as well as low-income communities within the United States. The organization also donates to countries experiencing major health crises. It is made up of motivated and compassionate college students from across the country. Members are dedicated to addressing the issue of surplus medical equipment
 image: 
 nav-menu: true
 ---
