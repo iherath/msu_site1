@@ -99,7 +99,7 @@ nav-menu: true
 				<p>The Center of Hope was started in 1979 in Mattakkuliya as a response to the Sri Lankan government's forcible relocation of hundreds of families to "clean up the city of Colombo" in 1976. This relocation led to the creation of the Summitpura slum, and the Center of Hope aims to support this community by providing children ages 3-16 with resources for education and physical, emotional, and spiritual health.  </p>
 				<p>MedSurplus is working with the Center of Hope to provide children with medical equipment such as examination tables and first aid kits, as well as personal hygiene kits that include soap, toothpaste, and toothbrushes.</p>
 				<ul class="actions">
-				<li><a href="https://www.facebook.com/medsurplusunited1" class="button" style="float: right;">Center of Hope Website</a></li>
+				<li><a href="https://www.centerofhope.lk/" class="button" style="float: right;">Center of Hope Website</a></li>
 				</ul>
 			</div>
 		</div>
