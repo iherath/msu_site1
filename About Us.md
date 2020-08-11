@@ -32,7 +32,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="/assets/images/pic09.jpg" alt="" data-position="25% 25%" />
+			<img src="/assets/images/SK2.JPG" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -58,7 +58,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="/assets/images/DK.jpg" alt="" data-position="25% 25%" />
+			<img src="/assets/images/DK2.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
