@@ -23,7 +23,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="" alt="" data-position="top center" />
+			<img src="/assets/images/Maho3.JPG" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
