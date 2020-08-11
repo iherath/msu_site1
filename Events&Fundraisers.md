@@ -56,6 +56,7 @@ nav-menu: true
 		<a class="image">
 			<img src="/assets/images/COH_2.JPG" alt="" data-position="top center" />
 			<img src="/assets/images/Hpt_5.JPG" alt="" data-position="top center" />
+			<img src="/assets/images/Hpt_2.JPG" alt="" data-position="top center" />
 		</a>
 		<!-- <a class="image">
 			<img src="/assets/images/Hpt_2.JPG" alt="" data-position="top center" />
