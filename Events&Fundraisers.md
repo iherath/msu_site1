@@ -54,24 +54,6 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Masks for Free Clinics and Food Banks </h3>
-					<h4>June 4th, 2020 - Present</h4>
-					<h4>Montgomery County,  Maryland United States</h4>
-				</header>
-				<p>Low income communities have been disproportionately affected by the COVID-19 outbreak. Thus, we believe we could make an impact by distrubuting masks at local free clinics and food banks in the Baltimore - Washington Metropolitan Area. </p>
-				<!--<ul class="actions">
-					<li><a class="button">Learn more</a></li>
-				</ul>-->
-			</div>
-		</div>
-	</section>
-	<section>
-		<a class="image">
 			<img src="/assets/images/COH_2.JPG" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -87,6 +69,24 @@ nav-menu: true
 				<ul class="actions">
 				<li><a href="https://www.centerofhope.lk/" class="button" style="float: right;">Center of Hope Website</a></li>
 				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Masks for Free Clinics and Food Banks </h3>
+					<h4>June 4th, 2020 - Present</h4>
+					<h4>Montgomery County,  Maryland United States</h4>
+				</header>
+				<p>Low income communities have been disproportionately affected by the COVID-19 outbreak. Thus, we believe we could make an impact by distrubuting masks at local free clinics and food banks in the Baltimore - Washington Metropolitan Area. </p>
+				<!--<ul class="actions">
+					<li><a class="button">Learn more</a></li>
+				</ul>-->
 			</div>
 		</div>
 	</section>
