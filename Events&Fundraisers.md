@@ -55,13 +55,14 @@ nav-menu: true
 	<section>
 		<a class="image">
 			<img src="/assets/images/COH_2.JPG" alt="" data-position="top center" />
+			<img src="/assets/images/Hpt_5.JPG" alt="" data-position="top center" />
 		</a>
-		<a class="image">
+		<!-- <a class="image">
 			<img src="/assets/images/Hpt_2.JPG" alt="" data-position="top center" />
 		</a>
 		<a class="image">
 			<img src="/assets/images/Hpt_5.JPG" alt="" data-position="top center" />
-		</a>
+		</a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -71,7 +72,7 @@ nav-menu: true
 				</header>
 				<p>The Center of Hope was started in 1979 in Mattakkuliya as a response to the Sri Lankan government's forcible relocation of hundreds of families to "clean up the city of Colombo" in 1976. This relocation led to the creation of the Summitpura slum, and the Center of Hope aims to support this community by providing children ages 3-16 with resources for education and physical, emotional, and spiritual health.  </p>
 				<p>MedSurplus is working with the Center of Hope to provide children with medical equipment such as examination tables and first aid kits, as well as personal hygiene kits that include soap, toothpaste, and toothbrushes.</p>
-				<p>We are also sending out medical supplies and hygiene kits to Horowpathana School, a rural school in Sri Lanka with 110 children. Being in a rural area, they lack many resources including basic health and hygiene supplies, and are sometimes supported by the teachers themselves. Donations will go into purchasing first aid kits for the schools and supplies for hygiene kits (including masks, toothbrushes, toothpaste, soap, hand sanitizer, water bottles, and lunch boxes) for 405 children in total.  </p>
+				<p>We are also sending out medical supplies and hygiene kits to Horowpathana School, a rural school near Kurunegala, Sri Lanka with 110 children. Being in a rural area, they lack many resources including basic health and hygiene supplies, and are sometimes supported by the teachers themselves. Donations will go into purchasing first aid kits for the schools and supplies for hygiene kits (including masks, toothbrushes, toothpaste, soap, hand sanitizer, water bottles, and lunch boxes) for 405 children in total.  </p>
 				<ul class="actions">
 				<li><a href="https://www.centerofhope.lk/" class="button" style="float: right;">Center of Hope Website</a></li>
 				</ul>
