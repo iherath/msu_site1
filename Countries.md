@@ -67,7 +67,7 @@ Some of the major challenges India faces with regards to public health include r
 
 <p>Although healthcare access and quality has been improving over the last twenty years, challenges abound. With a population of more than 37 million, Afghanistan has only 150 hospitals, including regional, district, and special military hospitals, with three doctors per 10,000 people. Though it is improving each year, the Afghanistan healthcare system has many areas in which it can be assisted. Afghanistan faces many logistical challenges that make providing adequate healthcare extremely difficult. For example, lack of security, lack of infrastructure, economic hardship, poor coordination among government and health care providers, minimal access to health care facilities, unsuitable hospital conditions, and few trained healthcare workers. 
 </p>
-<p>Some of the most common conditions in Afghanistan are carrdiovascular disease, cancer, diabetes mellitus, respiratory disease. In women, the leading causes of death are infectious/parasitic and cardiovascular disease followed by respiratory infections.
+<p>Some of the most common conditions in Afghanistan are cardiovascular disease, cancer, diabetes mellitus, respiratory disease. In women, the leading causes of death are infectious/parasitic and cardiovascular disease followed by respiratory infections.
 <hr />
 
 
