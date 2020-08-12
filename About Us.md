@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: About Us
-description: MedSurplus United aims to collect and donate surplus medical and healthcare equipment that would otherwise be wasted, from the United States to South Asian countries as well as low-income communities within the United States. The organization also donates to countries experiencing major health crises. It is made up of motivated and compassionate college students from across the country. Members are dedicated to addressing the issue of surplus medical equipment
+description: MedSurplus United aims to collect and donate surplus medical and healthcare equipment that would otherwise be wasted, from the United States to South Asian countries as well as low-income communities within the United States. The organization also donates to countries experiencing major health crises. It is made up of motivated and compassionate college students from across the country. Members are dedicated to addressing the issue of surplus medical equipment.
 image: 
 nav-menu: true
 ---
@@ -91,7 +91,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Kenneth Abraham - Project Manager</h3>
 				</header>
-				<p>Kenneth Abraham is an incoming freshman at Andrews University where he will be studying Biology. He is also the CEO of The Social Contract Corporation (an organization that provides food for the less fortunate). He has also worked along professionals in the FDA where he researched HIV/AIDS. In his free time he enjoys playing piano, tennis, and working out. </p>
+				<p>Kenneth Abraham is an incoming freshman at Andrews University where he will be studying Biology. He is also the CEO of The Social Contract Corporation (an organization that provides food for the less fortunate). He has also worked alongside professionals in the FDA where he researched HIV/AIDS. In his free time, he enjoys playing the piano, tennis, and working out. </p>
 			</div>
 		</div>
 	</section>
@@ -104,7 +104,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Dulmi Ratnasiri - Co-Public Relations Coordinator</h3>
 				</header>
-				<p>Dulmi Ratnasiri is an undergraduate student at the University of Maryland, College Park, where she studies Physiology and Neurobiology. Dulmi is a member of Girl Up!, an organization that aims to empower girls and raise awareness for United Nations programs that help adolescent girls in developing countries. She is also an active member of Maryland Club Tennis and participated in Terp Thon’s 12 hour dance marathon where she raised funds for Children’s National Hospital. In her free time, she enjoys listening to music and watching/playing tennis.</p>
+				<p>Dulmi Ratnasiri is an undergraduate student at the University of Maryland, College Park, where she studies Physiology and Neurobiology. Dulmi is a member of Girl Up!, an organization that aims to empower girls and raise awareness for United Nations programs that help adolescent girls in developing countries. She is also an active member of Maryland Club Tennis and participated in Terp Thon’s 12-hour dance marathon where she raised funds for Children’s National Hospital. In her free time, she enjoys listening to music and watching/playing tennis.</p>
 			</div>
 		</div>
 	</section>
@@ -117,7 +117,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Bosith Weerasinghe - Co-Public Relations Coordinator</h3>
 				</header>
-				<p>Bosith is an undergraduate student at the University of Maryland, College Park where he studies Psychology while on a pre-medical pathway. He is a member of the College Park Scholars program, more specifically their Justice and Legal Thought branch. He has shadowed various doctors, and interned at the FDA. At the FDA he actively assisted his mentors in their project which tested the harmfulness of swabcaps by writing the protocol for the study. In his free time he loves playing basketball and playing the drums</p>
+				<p>Bosith is an undergraduate student at the University of Maryland, College Park where he studies Psychology while on a pre-medical pathway. He is a member of the College Park Scholars program, more specifically their Justice and Legal Thought branch. He has shadowed various doctors and interned at the FDA. At the FDA he actively assisted his mentors in their project which tested the harmfulness of swabcaps by writing the protocol for the study. In his free time, he loves playing basketball and playing the drums.</p>
 			</div>
 		</div>
 	</section>
@@ -130,7 +130,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Dilshan Senanayake - Chief Technology Officer</h3>
 				</header>
-				<p>Dilshan Senanayake is a senior at University of Maryland, College Park studying Mechanical Engineering, graduating this coming December. On campus, he currently works as a Technical Director for the A. James Clark School of Engineering, responsible for recording lectures for students to view at a later time. In his free time, he likes to workout, play basketball/tennis, watch TV, listen to music, and play poker.</p>
+				<p>Dilshan Senanayake is a senior at the University of Maryland, College Park studying Mechanical Engineering, graduating this coming December. On campus, he currently works as a Technical Director for the A. James Clark School of Engineering, responsible for recording lectures for students to view at a later time. In his free time, he likes to work out, play basketball/tennis, watch TV, listen to music, and play poker.</p>
 			</div>
 		</div>
 	</section>
