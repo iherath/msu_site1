@@ -54,7 +54,7 @@ nav-menu: true
 				</header>
 				<p>The Center of Hope was started in 1979 in Mattakkuliya as a response to the Sri Lankan government's forcible relocation of hundreds of families to "clean up the city of Colombo" in 1976. This relocation led to the creation of the Summitpura slum, and the Center of Hope aims to support this community by providing children ages 3-16 with resources for education and physical, emotional, and spiritual health.  </p>
 				<p>MedSurplus is working with the Center of Hope to provide children with medical equipment such as examination tables and first aid kits, as well as personal hygiene kits that include soap, toothpaste, and toothbrushes.</p>
-				<p>We are also sending out medical supplies and hygiene kits to Horowpathana School, a rural school near Kurunegala, Sri Lanka with 110 children. Being in a rural area, they lack many resources including basic health and hygiene supplies, and are sometimes supported by the teachers themselves. Donations will go into purchasing first aid kits for the schools and supplies for hygiene kits (including masks, toothbrushes, toothpaste, soap, hand sanitizer, water bottles, and lunch boxes) for 405 children in total.  </p>
+				<p>We are also sending out medical supplies and hygiene kits to Horowpathana School, a rural school near Kurunegala, Sri Lanka with 110 children. Being in a rural area, they lack many resources including basic health and hygiene supplies and are sometimes supported by the teachers themselves. Donations will go into purchasing first aid kits for the schools and supplies for hygiene kits (including masks, toothbrushes, toothpaste, soap, hand sanitizer, water bottles, and lunch boxes) for 405 children in total.  </p>
 				<ul class="actions">
 				<li><a href="https://www.centerofhope.lk/" class="button" style="float: right;">Center of Hope Website</a></li>
 				</ul>
@@ -72,7 +72,7 @@ nav-menu: true
 					<h4>June 4th, 2020 - Present</h4>
 					<h4>Montgomery County,  Maryland United States</h4>
 				</header>
-				<p>Low income communities have been disproportionately affected by the COVID-19 outbreak. Thus, we believe we could make an impact by distrubuting masks at local free clinics and food banks in the Baltimore - Washington Metropolitan Area. </p>
+				<p>Low-income communities have been disproportionately affected by the COVID-19 outbreak. Thus, we believe we could make an impact by distributing masks at local free clinics and food banks in the Baltimore - Washington Metropolitan Area. </p>
 				<!--<ul class="actions">
 					<li><a class="button">Learn more</a></li>
 				</ul>-->
