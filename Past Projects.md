@@ -15,14 +15,6 @@ nav-menu: true
 				</header>
 				<p> Yemen is currently experiencing the largest humanitarian crisis in the world. Caught in the middle of war, famine, and now a pandemic, many of the Yemeni people are in need of support. We are holding a fundraiser that will donate proceeds to Unicef and the United Nations High Commissionerr for Refugees (UNHCR), as we have researched and worked with officials from these organizations to ensure that our donations will go to assisting in providing for the medical needs for the people of Yemen. </p>
 			</div>	
-			<div class="inner">
-				<ul class="actions">
-				<li><a href="https://www.gofundme.com/f/medsurplus-united-united-aid-for-yemen" class="button" style="float: right;">GoFundMe</a></li>
-				</ul>
-				<ul class="actions">
-				<li><a href="https://www.facebook.com/medsurplusunited1" class="button" style="float: right;">Facebook Fundraiser</a></li>
-				</ul>
-			</div>
 		</div>
 	</section>
 	<section>
