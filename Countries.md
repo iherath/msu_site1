@@ -32,7 +32,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Our Role</h3>
-		<p>At MedSurplus United, we work with hospitals as well as other medical surplus recovery organizations to reallocate surplus medical equipment to rural hosptials in South Asia as well as supporting free clinics in the United States. </p>
+		<p>At MedSurplus United, we work with hospitals as well as other medical surplus recovery organizations to reallocate surplus medical equipment to rural hospitals in South Asia as well as supporting free clinics in the United States. </p>
 	</div>
 </div>
 
