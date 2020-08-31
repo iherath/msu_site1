@@ -128,7 +128,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Dilshan Senanayake - Chief Technology Officer</h3>
+					<h3>Dilshan Senanayake - Web Development Lead</h3>
 				</header>
 				<p>Dilshan Senanayake is a senior at the University of Maryland, College Park studying Mechanical Engineering, graduating this coming December. On campus, he currently works as a Technical Director for the A. James Clark School of Engineering, responsible for recording lectures for students to view at a later time. In his free time, he likes to work out, play basketball/tennis, watch TV, listen to music, and play poker.</p>
 			</div>
