@@ -28,7 +28,7 @@ nav-menu: true
 					<h4>June 3rd, 2020 - June 10th, 2020</h4>
 					<h4>Washington, D.C., United States</h4>
 				</header>
-				<p> As a result of the death of George Floyd as well as many past incidents of police brutality, many across the nation took to the streets to protest. Unfortunately, this is all happened amidst a global pandemic, as there is still no vaccine or cure for SARS-CoV-2. To help out, helped distribute masks to anyone attending the protests.</p>
+				<p> As a result of the death of George Floyd as well as many past incidents of police brutality, many across the nation took to the streets to protest. Unfortunately, this is all happened amidst a global pandemic, as there was no vaccine or cure for SARS-CoV-2. To help out, helped distribute masks to anyone attending the protests.</p>
 			</div>
 		</div>
 	</section>
