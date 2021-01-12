@@ -41,16 +41,16 @@ nav-menu: true
 <!-- Elements -->
 <h2 id="content">Countries</h2>
 
-<p>These are all of the countries we hope to support</p>	
+<p>These are all of the countries we hope to support.</p>	
 
 <!-- Text stuff -->
 <h3>United States</h3>
-<p>Free clinics across the nation rely on donations and volunteer work to operate. These clinics are important facets of many communities, because of the high price of healthcare in the United States. Some families do not have access to health insurance to help them cover the cost of healthcare. As a result, they rely on these free clinics for treatments for common illnesses. </p>
+<p>Free clinics across the nation rely on donations and volunteer work to operate. These clinics are important facets of many communities because of the high price of healthcare in the United States. Some families do not have access to health insurance to help them cover the cost of healthcare. As a result, they rely on these free clinics for treatments for common illnesses. </p>
 <hr />
 <h3>Sri Lanka</h3>
 <p>Since the implementation of universal healthcare, Sri Lanka has seen remarkable improvements in its healthcare system. Both its maternal and infant mortality rates have dropped drastically.</p>
 
-<p>Despite the progress, there has been an increase in the prevalence of non-communicable diseases (NCDs), such as heart disease, cancer, diabetes, and cerebrovascular disease. These cases are putting pressure on the healthcare system. There needs to be more emphasis on primary care, which lacks resources. Additionally, the country has the 4th highest suicide rate in the world, which is why mental health needs to be integrated at the primary care level. Finally, Sri Lanka also faces alarming cases from communicable diseases, such as dengue fever, tuberculosis, and influenza.</p>
+<p>Despite the progress, there has been an increase in the prevalence of non-communicable diseases (NCDs), such as heart disease, cancer, diabetes, and cerebrovascular disease. These cases are putting pressure on the healthcare system. There needs to be more emphasis on primary care, which lacks resources. Additionally, the country has the 4th highest suicide rate in the world, which is why mental health needs to be integrated at the primary care level. Finally, Sri Lanka also faces alarming rates of communicable diseases, such as dengue fever, tuberculosis, and influenza.</p>
 <hr />
 
 <h3>India</h3>
