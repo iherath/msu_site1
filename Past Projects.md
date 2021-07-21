@@ -7,6 +7,24 @@ nav-menu: true
 ---
 <section id="two" class="spotlights">
 	<section>
+		<a class="image">
+			<img src="" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Masks for Free Clinics and Food Banks </h3>
+					<h4>June 4th, 2020 - December 30th, 2020</h4>
+					<h4>Montgomery County,  Maryland United States</h4>
+				</header>
+				<p>Low-income communities have been disproportionately affected by the COVID-19 outbreak. Thus, we believe we could make an impact by distributing masks at local free clinics and food banks in the Baltimore - Washington Metropolitan Area. </p>
+				<!--<ul class="actions">
+					<li><a class="button">Learn more</a></li>
+				</ul>-->
+			</div>
+		</div>
+	</section>
+	<section>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
