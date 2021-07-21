@@ -26,7 +26,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="/assets/images/yemenprojectpics.jpg" alt="" data-position="top center" />
+			<img src="/assets/images/yemenprojectpics.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
