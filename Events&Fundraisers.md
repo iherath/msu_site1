@@ -41,7 +41,7 @@ nav-menu: true
 					<h4>June 28th, 2021 - Present</h4>
 					<h4>Sri Lanka</h4>
 				</header>
-				<p>The ongoing COVID-19 crisis is overwhelming intensive care units (ICUs) in hospitals across Sri Lanka. In response, MedSurplus United is cooperating with a network of Sri Lankan communities across the United States to supply hospitals across Sri Lanka with necessary supplies to care for COVID-19 patients. These supplies include patient monitors, O2 concentrators, high flow nasal units, and other respiratory-related supplies. Click below to support our efforts, and be sure to select "MedSurplus United - 501(c)3 charity" in the "Referred by" field</p>
+				<p>The ongoing COVID-19 crisis is overwhelming intensive care units (ICUs) in hospitals across Sri Lanka. In response, MedSurplus United is cooperating with a network of Sri Lankan communities across the United States to supply hospitals across Sri Lanka with necessary supplies to care for COVID-19 patients. These supplies include patient monitors, O2 concentrators, high flow nasal units, and other respiratory-related supplies. Click below to support our efforts, and be sure to select "MedSurplus United - 501(c)3 charity" in the "Referred by" field.</p>
 				<ul class="actions">
 				<li><a href="https://www.gofundme.com/f/Sri-Lanka-Covid-Help-ICU-Oxygen" class="button" style="float: right;">Donate</a></li>
 				</ul>
