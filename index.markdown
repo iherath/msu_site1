@@ -6,7 +6,7 @@ layout: home
 title: Home
 landing-title: 'MedSurplus United'
 description: site.description
-image: null
+image: "./assets/images/Hpt_1.JPG"
 author: null
 show_tile: false
 ---
