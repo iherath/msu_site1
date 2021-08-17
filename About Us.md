@@ -102,22 +102,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Dulmi Ratnasiri - Co-Public Relations Coordinator</h3>
+					<h3>Dulmi Ratnasiri - Public Relations Coordinator</h3>
 				</header>
 				<p>Dulmi Ratnasiri is an undergraduate student at the University of Maryland, College Park, where she studies Physiology and Neurobiology. Dulmi is a member of Girl Up!, an organization that aims to empower girls and raise awareness for United Nations programs that help adolescent girls in developing countries. She is also an active member of Maryland Club Tennis and participated in Terp Thon’s 12-hour dance marathon where she raised funds for Children’s National Hospital. In her free time, she enjoys listening to music and watching/playing tennis.</p>
-			</div>
-		</div>
-	</section>
-    <section>
-		<a class="image">
-			<img src="/assets/images/BW1.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Bosith Weerasinghe - Co-Public Relations Coordinator</h3>
-				</header>
-				<p>Bosith is an undergraduate student at the University of Maryland, College Park where he studies Psychology while on a pre-medical pathway. He is a member of the College Park Scholars program, more specifically their Justice and Legal Thought branch. He has shadowed various doctors and interned at the FDA. At the FDA he actively assisted his mentors in their project which tested the harmfulness of swabcaps by writing the protocol for the study. In his free time, he loves playing basketball and playing the drums.</p>
 			</div>
 		</div>
 	</section>
