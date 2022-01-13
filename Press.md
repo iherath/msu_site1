@@ -6,4 +6,4 @@ image:
 nav-menu: true
 ---
 
-[Sri Lankan Army](https://www.army.lk/news/stock-ppe-gifted-army-chief-delivered-army-hospital-distribution)
+[Sri Lankan Army: Stock of PPE Gifted to Army Chief Delivered to Army Hospital for Distribution](https://www.army.lk/news/stock-ppe-gifted-army-chief-delivered-army-hospital-distribution)
