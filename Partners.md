@@ -14,7 +14,11 @@ nav-menu: true
 			</a></li>
 			<li><a href="https://missiontoothbrush.org/" class="image">
 			<img src="/assets/images/mission-toothbrush-logo.png" alt="" Hspace="300" Vspace="100"/>
-				</a></li>
+			</a></li>
+			<li><a href="https://www.hopkinsmedicine.org/" class="image">
+			<img src="/assets/images/hopkinslogoHighRes.jpeg" alt="" Hspace="300" Vspace="100"/>
+			</a></li>
+			
 		</ul>
 	</div>
 </section>
