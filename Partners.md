@@ -7,11 +7,17 @@ image:
 nav-menu: true
 ---
 <section id="one">
-<a href="https://www.globallinks.org/" class="image">
-	<img src="/assets/images/globallinks.jpg" alt="" Hspace="300" Vspace="100"/>
-</a>
-<a href="https://missiontoothbrush.org/" class="image">
-	<img src="/assets/images/mission-toothbrush-logo.png" alt="" Hspace="300" Vspace="100"/>
-</a>
+	<div class="inner">
+		<ul class="actions">
+			<li><a href="https://www.globallinks.org/" class="image">
+			<img src="/assets/images/globallinks.jpg" alt="" Hspace="300" Vspace="100"/>
+			</a></li>
+			<li><a href="https://missiontoothbrush.org/" class="image">
+			<img src="/assets/images/mission-toothbrush-logo.png" alt="" Hspace="300" Vspace="100"/>
+			</a></li>
+		
+		</ul>
+	</div>
+</section>
 
 <!--data-position="center center"-->
