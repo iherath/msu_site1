@@ -11,13 +11,22 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>COVID-19 Relief in Sri Lanka </h3>
-					<h4>June 28th, 2021 - February 28th, 2022</h4>
+					<h4>September 1st, 2021 - February 28th, 2022</h4>
 					<h4>Sri Lanka</h4>
 				</header>
-				<p>The ongoing COVID-19 crisis is overwhelming intensive care units (ICUs) in hospitals across Sri Lanka. In response, MedSurplus United is cooperating with a network of Sri Lankan communities across the United States to supply hospitals across Sri Lanka with necessary supplies to care for COVID-19 patients. These supplies include personal protective equipment (PPE), patient monitors, O2 concentrators, high flow nasal units, and other respiratory-related supplies.</p>
-				<ul class="actions">
-				<li><a href="https://www.gofundme.com/f/heated-humidified-oxygen-therapy-unit-hhot?member=14400109&utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer" class="button" style="float: right;">Donate</a></li>
-				</ul>
+				<p> The second wave of COVID-19 in South Asia led to hospitals in Sri Lanka becoming overwhelmed with patients. To support the healthcare system there in this critical period, MedSurplus United cooperated with Sri Lanka Association Midwest and The Johns Hopkins Hospital to supply hospitals across Sri Lanka with personal protective equipment (PPE). With the support of the Sri Lankan Army, we were able to distribute over 13 tons of PPE to clinics throughout Sri Lanka.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>O2 for Sri Lanka Initiative</h3>
+					<h4>June 28th, 2021 - August 21th, 2021</h4>
+					<h4>Sri Lanka</h4>
+				</header>
+				<p>The COVID-19 crisis overwhelmed intensive care units (ICUs) in hospitals across Sri Lanka. In response, MedSurplus United worked with a network of Sri Lankan communities across the United States to supply hospitals across Sri Lanka with necessary supplies to care for COVID-19 patients. With the help of Sri Lanka Association Midwest, we were able to ship O2 concentrators, high flow nasal units, and other respiratory-related supplies to hospitals across Sri Lanka.</p>
 			</div>
 		</div>
 	</section>
