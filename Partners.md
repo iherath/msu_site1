@@ -2,6 +2,7 @@
 title: Partners
 layout: landing
 description: 'We are grateful for the support from the following hospitals and organizations'
+geometry: "left=2cm, right=2cm, top=3cm, bottom=3cm"
 image: 
 nav-menu: true
 ---
