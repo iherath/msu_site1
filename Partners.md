@@ -15,6 +15,9 @@ nav-menu: true
 			<li><a href="https://missiontoothbrush.org/" class="image">
 			<img src="/assets/images/mission-toothbrush-logo.png" alt="" Hspace="300" Vspace="100"/>
 			</a></li>
+			<li><a href="https://www.slausa.org/" class="image">
+			<img src="/assets/images/SLAMidwest.png" alt="" Hspace="300" Vspace="100"/>
+			</a></li>
 		</ul>
 	</div>
 </section>
