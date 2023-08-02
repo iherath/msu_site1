@@ -109,7 +109,7 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Donations to Maho Regional Hospital</h3>
-					<h4>December 10th, 2018</h4>
+					<h4>December 10th, 2019</h4>
                     <h4>Maho, Sri Lanka</h4>
 				</header>
 				<p>In partnership with Global Links, we were able to ship over 500lbs of surplus medical supplies to Maho Regional Hospital. We mediated between hospital administrators in Maho and Global Links to make sure we were sending supplies that were needed. Some examples of materials shipped include, wheelchairs, crutches, and surgical kits.</p>
