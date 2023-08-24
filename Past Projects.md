@@ -46,7 +46,7 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Center of Hope & Horowpathana School</h3>
-					<h4>July 20th, 2020 - Present</h4>
+					<h4>July 20th, 2020 - January 15th, 2021</h4>
 					<h4>Sri Lanka</h4>
 				</header>
 				<p>The Center of Hope was started in 1979 in Mattakkuliya as a response to the Sri Lankan government's forcible relocation of hundreds of families to "clean up the city of Colombo" in 1976. This relocation led to the creation of the Summitpura slum, and the Center of Hope aims to support this community by providing children ages 3-16 with resources for education and physical, emotional, and spiritual health. In order to support this mission, MedSurplus United sent medical supplies and hygiene kits to the Center of Hope.</p>
